@@ -58,8 +58,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/saipulanuar/YukiBot-Md2.git
-cd YukiBot-Md2
+git clone https://github.com/nanisabrie/V19B
+cd V19B
 pkg install yarn
 yarn install
 npm i -g typescript
